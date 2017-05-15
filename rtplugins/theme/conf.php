@@ -1,3 +1,3 @@
 <?php
 
-$defaultTheme = "MaterialDesign"; // May be "", "Oblivion", "Dark", "Blue" or "Acid"
+$defaultTheme = "Oblivion"; // May be "", "Oblivion", "Dark", "Blue" or "Acid"
